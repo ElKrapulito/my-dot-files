@@ -1,8 +1,8 @@
 {
-    "layer": "top",
-    "position": "top",
-    "height": 30,
-    "spacing": 1,
+    "layer": "bottom",
+    "position": "bottom",
+    "height": 10,
+    "spacing": 0,
     "margin": 0,
     "modules-left": ["sway/workspaces", "sway/mode", "custom/quote"],
         "modules-center": [],                                                                           //battery   //disk     // uptime      //updates        // systray
